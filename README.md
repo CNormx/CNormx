@@ -1,4 +1,4 @@
-<h1>Hello, I'm Crystal! <br/><a href="https://www.linkedin.com/in/crystaln88/">and I'm a Data Analyst</a></h1>
+<h1>Hello, I'm Crystal! <br/>
 
 <h2>📊 Data Analyst Projects:</h2>
 
@@ -8,11 +8,20 @@
 - <b>Sales Account Data Analysis</b>
   - [Website/Slideshow Presentation](https://cnormx.github.io/Sales-Account-DA/) 
   - [Github repository](https://github.com/CNormx/Sales-Account-DA)
+  
+<h2>📜 Certifications:</h2>
+
+- <b>Google Data Analytics</b>
+  - [Certificate](https://coursera.org/share/4b0c1252feb05d46d720d0b880928b79)
+
+  
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/crystaln88/
+[email]: cnorm88@gmail.com  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
