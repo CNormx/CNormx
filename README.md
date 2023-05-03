@@ -5,7 +5,7 @@
 - <b>Data Preparation, Manipulation and Visualizations -Performed in R</b>
   - [Website](https://cnormx.github.io/R_Capstone_Project/)
   - [Github repository](https://github.com/CNormx/R_Capstone_Project)
-- <b>Sales Account Data Analysis</b>
+- <b>Sales Account Data Analysis -Performed in Google Sheets</b>
   - [Website/Slideshow Presentation](https://cnormx.github.io/Sales-Account-DA/) 
   - [Github repository](https://github.com/CNormx/Sales-Account-DA)
   
