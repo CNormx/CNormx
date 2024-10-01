@@ -5,14 +5,13 @@
 - <b>Housing Sales Dashboard -Created with Tableau</b>
   - [Website](https://public.tableau.com/app/profile/crystal.norman4605/viz/AustinHousing_16910008618900/Dashboard12)
 - <b>Healthcare Exploratory Data Analyst -Performed in SQL</b>
-  - [Website](https://cnormx.notion.site/Healthcare-Exploratory-Data-Project-using-SQL-0d53a78841754a6fb52cc4338fc577eb?pvs=4)
   - [Github repository](https://github.com/CNormx/HealthcareEDA)
+  - [Website](https://cnormx.notion.site/Healthcare-Exploratory-Data-Project-using-SQL-0d53a78841754a6fb52cc4338fc577eb?pvs=4) 
 - <b>Data Preparation, Manipulation and Visualizations -Performed in R</b>
-  - [Website](https://cnormx.github.io/R_Capstone_Project/) 
   - [Github repository](https://github.com/CNormx/R_Capstone_Project)
-- <b>Redbull Sales Account Presentation -Created with Google Slides</b>
-  - [Website/Slideshow Presentation](https://cnormx.github.io/Sales-Account-DA/) 
-  - [Github repository](https://github.com/CNormx/Sales-Account-DA)
+  - [Website](https://cnormx.github.io/R_Capstone_Project/) 
+
+
   
 <h2>📜 Certifications/Credentials:</h2>
 
