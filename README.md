@@ -4,6 +4,7 @@
 
 - <b>Connectify Full Exploratory Data Analysis</b>
   - [Github Repository](https://github.com/CNormx/Connectify_EDA)
+  - [Dashboard](https://lookerstudio.google.com/s/gA_Uv2xolHs)
 - <b>Healthcare Data Cleaning and Modeling -Performed in SQL</b>
   - [Github repository](https://github.com/CNormx/Healthcare_Project)
   - [Website](https://cnormx.notion.site/Healthcare-Exploratory-Data-Project-using-SQL-0d53a78841754a6fb52cc4338fc577eb?pvs=4)
